@@ -77,7 +77,6 @@ BCGX/
 └── README.md
 ```
 
-> **Note:** `client_data.csv` and `price_data.csv` are proprietary to the Forage simulation. Enroll for free at [theforage.com](https://www.theforage.com/simulations/bcg/data-science-ccdz) to access them.
 
 ---
 
@@ -109,7 +108,7 @@ BCGX/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/BCGX.git
+https://github.com/Just-Aditya/BCGX.git
 cd BCGX
 
 # 2. Install dependencies
@@ -122,15 +121,3 @@ jupyter notebook
 Open in sequence: `Task-3.ipynb` → `Task-4.ipynb` → `Task-5.ipynb`
 
 ---
-
-## 🏅 Certificate
-
-Completed as part of the **BCG X Data Science Job Simulation** on Forage.
-
-> 📎 [View Certificate](#) ← *(replace with your Forage certificate link)*
-
----
-
-<div align="center">
-  <sub>Built with 🔍 curiosity · <a href="https://github.com/<your-username>">@your-username</a> · BCG X × Forage</sub>
-</div>

@@ -1,4 +1,4 @@
-# ⚡ BCG X Data Science Job Simulation
+# BCG X Data Science Job Simulation
 ### Forage · PowerCo Customer Churn Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -10,15 +10,15 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository contains my completed work for the **BCG X Data Science Job Simulation** hosted on [Forage](https://www.theforage.com/). The simulation mirrors a real-world consulting engagement where BCG X is hired by **PowerCo** — a major gas and electricity utility — to investigate and reduce customer churn.
 
 **Core hypothesis:** Price sensitivity is a primary driver of churn, and a 20% discount could serve as a viable retention lever.
 
-> 💼 **Client:** PowerCo (fictitious utility company)  
-> 🏢 **Simulated Role:** Data Scientist @ BCG X  
-> 🎯 **Goal:** Predict churn, identify its drivers, and evaluate the financial case for a targeted discount strategy
+>  **Client:** PowerCo (fictitious utility company)  
+>  **Simulated Role:** Data Scientist @ BCG X  
+>  **Goal:** Predict churn, identify its drivers, and evaluate the financial case for a targeted discount strategy
 
 ---
 
@@ -93,7 +93,7 @@ BCGX/
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 | Metric | Value |
 |---|---|
@@ -104,7 +104,7 @@ BCGX/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # 1. Clone the repository
